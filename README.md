@@ -20,7 +20,7 @@ I believe in the power of humor to break the ice, the strength of hard work to f
 Whether you're looking for a meticulous eye that once chased bugs for a living or a creative mind that's now coding its way towards the future of web interfaces, I'd love to chat. Let's connect the dots and build the web of tomorrow, one line of code at a time.
 
 •⁠  ⁠📫 *How to reach me*: [omidsangar@gmail.com]
-•⁠  ⁠🔗 *LinkedIn*: [https://www.linkedin.com/in/omid-shabgard-959328219/]
+•⁠  ⁠🔗 *LinkedIn*: [https://www.linkedin.com/in/omid-shabgard/]
 
 ## Fun Fact
 When I'm not debugging code, you might find me debugging the mystery of why my humor often elicits more groans than laughs. But hey, if laughter is the best medicine, consider me a healthcare professional.
