@@ -2,6 +2,8 @@
 
 ## About Me
 After spending over half a decade in QA, I've pivoted towards the vibrant world of Web Development. My journey through the meticulous realms of HTML, CSS, and JavaScript has been fueled by my passion for creating and my desire to build seamless user experiences. Based in Albany, New York, I am eagerly transitioning to front-end development, where I aim to blend my analytical acumen with my newfound coding skills.
+As I expanded my expertise, I delved into backend development to build full-stack applications. My backend journey includes working with Node.js, Express.js, and MongoDB, designing RESTful APIs, handling authentication, and integrating databases. I have hands-on experience with Postman for API testing and Jest for backend unit testing. My knowledge of Git ensures smooth version control, while my familiarity with Google Cloud allows me to deploy and manage applications effectively. Additionally, I have explored REST Assured for API automation testing, ensuring robust backend functionality.
+With this combined knowledge of frontend and backend development, I am now fully equipped to build end-to-end web applications, delivering both seamless user experiences and efficient backend solutions.
 
 ## My Journey
 •⁠  ⁠*QA Maverick*: With 7+ years in Quality Assurance, I honed my eagle eye for detail and my relentless pursuit of perfection.
