@@ -6,12 +6,12 @@ As I expanded my expertise, I delved into backend development to build full-stac
 With this combined knowledge of frontend and backend development, I am now fully equipped to build end-to-end web applications, delivering both seamless user experiences and efficient backend solutions.
 
 ## My Journey
-•⁠  ⁠*QA Maverick*: With 7+ years in Quality Assurance, I honed my eagle eye for detail and my relentless pursuit of perfection.
+•⁠  ⁠*QA Maverick*: With 8+ years in Quality Assurance, I honed my eagle eye for detail and my relentless pursuit of perfection.
 •⁠  ⁠*Web Development Aspirant*: Guided by the comprehensive curriculum at TripleTen, I've crafted a solid foundation in web technologies.
 •⁠  ⁠*Perpetual Learner*: Transitioning to front-end development isn't just a career move—it's a leap into a lifelong learning adventure.
 
 ## My Toolbox
-•⁠  ⁠🛠 *Languages*: Proficient in HTML, CSS, and JavaScript.
+•⁠  ⁠🛠 *Languages*: Proficient in HTML, CSS, JavaScript, TypeScript, Node.js, Express.js, MongooDB, Jest, Python3 with Pytest Framework, Cypress and Playwright.
 •⁠  ⁠🎨 *Design*: A flair for UI with a user-centric approach.
 •⁠  ⁠🧰 *Tools*: Versed in the latest front-end development tools and best practices.
 
