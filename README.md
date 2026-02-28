@@ -25,7 +25,9 @@ Software Engineer focused on building full-stack web applications with a strong 
 
 1️⃣ walkaroundus-react
 2️⃣ peaks-library
+
 3️⃣ communitee-golf-api
 4️⃣ se_project_express
+
 5️⃣ coffee-shop-ui
 6️⃣ portfolio-website
