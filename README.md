@@ -1,31 +1,48 @@
-# Hi, I’m Omid 👋
+# Hi, I'm Omid 👋
 
-Software Engineer focused on building full-stack web applications with a strong background in test automation.
+Software Engineer focused on building full-stack JavaScript applications.  
+Background in Test Automation and quality-first development.
 
-## Tech Stack
+---
+
+## 🚀 Tech Stack
 - JavaScript / TypeScript
 - React
 - Node.js / Express
 - MongoDB
-- Playwright & Cypress
 - REST APIs
+- Playwright & Cypress
 
-## Featured Projects
-🔹 NewsExplorer – React app using external News API  
-🔹 WalkAroundUs – Interactive travel web application  
-🔹 Peak Library – Full-stack library platform  
-🔹 Specialty Coffee – Responsive UI project  
+---
 
-## What I Bring
+## 🌐 Live Portfolio Project
+👉 https://newsexplorertripple.netlify.app/
+
+A React application that fetches and displays real-time news using an external API.
+
+---
+
+## ⭐ Featured Projects
+
+**NewsExplorer**  
+React application integrating external APIs, search, and responsive UI.
+
+**WalkAroundUs**  
+Interactive travel web app built with React and modern JavaScript.
+
+**Peaks Library**  
+Full-stack library platform using Node.js, Express, and MongoDB.
+
+**Specialty Coffee UI**  
+Responsive front-end project focused on layout and accessibility.
+
+---
+
+## 💡 What I Bring
 - Clean, maintainable code
 - Strong debugging across UI, API, and data layers
 - Quality-first development mindset
 
-📫 Connect with me on LinkedIn
+---
 
-1️⃣ walkaroundus-react
-2️⃣ peaks-library
-3️⃣ communitee-golf-api
-4️⃣ se_project_express
-5️⃣ coffee-shop-ui
-6️⃣ portfolio-website
+📫 Connect with me on LinkedIn
