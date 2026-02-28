@@ -22,10 +22,3 @@ Software Engineer focused on building full-stack web applications with a strong 
 - Quality-first development mindset
 
 📫 Connect with me on LinkedIn
-
-1️⃣ portfolio-website
-2️⃣ walkaroundus-react
-3️⃣ peaks-library
-4️⃣ coffee-shop-ui
-5️⃣ communitee-golf-api
-6️⃣ se_project_express
