@@ -18,7 +18,7 @@ Background in Test Automation and quality-first development.
 ## 🌐 Live Portfolio Project
 👉 https://newsexplorertripple.netlify.app/
 
-A React application that fetches and displays real-time news using an external API.
+A production-ready React application integrating external APIs, search functionality, and responsive UI.
 
 ---
 
