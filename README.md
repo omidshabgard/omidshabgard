@@ -1,17 +1,37 @@
 # Hi, I'm Omid 👋
 
-Software Engineer focused on building full-stack JavaScript applications.  
-Background in Test Automation and quality-first development.
+Full-Stack Software Engineer with a strong background in QA Automation and quality-first development.
+
+I build scalable applications using JavaScript, TypeScript, React, Node.js, MongoDB, and Python.
+
+Experienced in test automation, API validation, and building reliable software using Playwright, Selenium, and modern quality engineering practices.
+
+Focused on clean architecture, backend systems, automation, and production-ready software.
 
 ---
 
 ## 🚀 Tech Stack
-- JavaScript / TypeScript
-- React
-- Node.js / Express
-- MongoDB
-- REST APIs
-- Playwright & Cypress
+
+### Frontend
+React • JavaScript • TypeScript • HTML • CSS
+
+### Backend
+Node.js • Express • MongoDB • REST APIs • Python
+
+### Testing & Automation
+Playwright • Cypress • Pytest • API Testing • Postman
+
+### Tools
+Git • GitHub Actions • VS Code • CI/CD
+
+---
+
+## 🔥 Currently Working On
+
+- Full-stack JavaScript applications
+- Python automation with PyTest
+- API and backend testing
+- AI-assisted software testing
 
 ---
 
